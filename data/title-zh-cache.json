@@ -24631,5 +24631,15 @@
   "This AI startup pays $1.7M a year in rent so staff will work 72-hour weeks": "这家人工智能初创公司每年支付 170 万美元的租金，因此员工每周工作 72 小时",
   "Grok 4.5 is available in Grok Build, in Cursor, and from the SpaceXAI console, but not in the EU; it costs $2 per 1M input tokens and $6 per 1M output tokens (Axios)": "Grok 4.5 可在 Grok Build、Cursor 和 SpaceXAI 控制台中使用，但不适用于欧盟；每 1M 个输入代币成本为 2 美元，每 100 万个输出代币成本为 6 美元 (Axios)",
   "A brewing battle: More IT workers want unions. The industry doesn't": "一场酝酿中的战斗：更多 IT 员工希望成立工会。行业没有",
-  "The Second Derivative: Why No One Understands the AI Boom": "二阶导数：为什么没人理解人工智能的繁荣"
+  "The Second Derivative: Why No One Understands the AI Boom": "二阶导数：为什么没人理解人工智能的繁荣",
+  "The classifiers Anthropic puts in front of Fable are too zealous": "Anthropic 放在《寓言》前面的分类器太热心了",
+  "Rewriting Bun in Rust": "用 Rust 重写 Bun",
+  "OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark (OpenAI)": "OpenAI 表示，它发现 SWE-Bench Pro 中存在广泛的任务问题，估计约 30% 的任务被破坏，并撤回了之前采用该基准的建议 (OpenAI)",
+  "Separating signal from noise in coding evaluations": "在编码评估中将信号与噪声分离",
+  "Most slopcode projects are abandoned and deleted within months of release": "大多数 slopcode 项目在发布后几个月内就被放弃和删除",
+  "Meta's New AI Image Tool Can Use Your Public Instagram Photos by Default": "Meta 的新 AI 图像工具可以默认使用您的 Instagram 公开照片",
+  "Turning a pile of documents into a searchable useable knowledge base": "将一堆文档变成可搜索、可用的知识库",
+  "HubSpot tried to feed its AI with customer data. The revolt took four days": "HubSpot 试图为其人工智能提供客户数据。起义历时四天",
+  "Nvidia teams up with chip rival d-Matrix instead of fighting it": "Nvidia 与芯片竞争对手 d-Matrix 合作而不是与之对抗",
+  "Flock Cameras Wrongly Tracked Me for Days over 'Stolen' Plates": "一群摄像机因“被盗”的盘子而错误地追踪了我好几天"
 }
